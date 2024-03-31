@@ -1,0 +1,62 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+.box{
+    border: solid 1px;
+    width: 362px;
+    height: 374.07px;
+    top: 82px;
+    left: 139px;
+    background-color: #F2F2F2;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+   
+    
+}
+
+button{
+    width: 75.08px;
+    height: 58.99px;
+    top: 178.53px;
+    left: 159.11px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border-color:#000000 ;
+    font-size: 20px;
+    background-color: #fff;
+    box-shadow: 2px;
+    cursor: pointer;
+   
+    
+    
+
+}
+
+#igual{
+    width: 157.74px;
+    height: 59.17px;
+    top: 380.99px;
+    left: 242.7px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+
+}
+
+.tela{
+    height: 58.99px;
+    width: 323.12px;
+    top: 103.45px;
+    left: 159.11px;
+    background-color: #fff;
+    border: solid 1px;
+    
+}
